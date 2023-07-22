@@ -1,0 +1,13 @@
+.one {
+    text-align: center;
+}
+
+.two {
+    background-color: blue;
+    display: flex;
+}
+
+.three {
+    display: flex;
+    background-color: rgb(225, 65, 56);
+}
